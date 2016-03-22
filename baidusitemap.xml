@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+    
+  <url>
+    <loc>http://wsqat.github.io/2016/03/22/hello-world/</loc>
+    <lastmod>2016-03-22T03:33:11.225Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2016-03-22T03:07:15.730Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://wsqat.github.io/2016/03/22/Hello/</loc>
+    <lastmod>2016-03-22T03:25:50.244Z</lastmod>
+    <data>
+        <display>
+        <title>Hello</title>
+        <pubTime>2016-03-22T03:23:13.000Z</pubTime>
+        
+        <tag>Hello</tag>
+         
+         
+           
+             
+              <breadCrumb title="日志" url="http://wsqat.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+          
+             
+              <breadCrumb title="二级目录" url="http://wsqat.github.io/categories/%E6%97%A5%E5%BF%97/%E4%BA%8C%E7%BA%A7%E7%9B%AE%E5%BD%95/"/>
+          
+        </display>
+    </data>
+    </url>
+
+</urlset>
