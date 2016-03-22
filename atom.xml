@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wsqat.github.io/"/>
-  <updated>2016-03-22T03:25:50.244Z</updated>
+  <updated>2016-03-22T06:41:48.828Z</updated>
   <id>http://wsqat.github.io/</id>
   
   <author>
@@ -14,6 +14,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>IFE-StageOne-Task1</title>
+    <link href="http://wsqat.github.io/2016/03/22/IFE-StageOne-Task1/"/>
+    <id>http://wsqat.github.io/2016/03/22/IFE-StageOne-Task1/</id>
+    <published>2016-03-22T06:11:25.000Z</published>
+    <updated>2016-03-22T06:41:48.828Z</updated>
+    
+    <content type="html">&lt;p&gt;摘要：&lt;br&gt;    IFE 百度前端技术学院&lt;br&gt;    IFE春季班第一阶段任务&lt;br&gt;    任务一：零基础HTML编码&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt; 
+&lt;p&gt;正文：&lt;/p&gt;
+&lt;h2 id=&quot;任务描述&quot;&gt;&lt;a href=&quot;#任务描述&quot; class=&quot;headerlink&quot; title=&quot;任务描述&quot;&gt;&lt;/a&gt;任务描述&lt;/h2&gt;&lt;h3 id=&quot;参考如下示例图，完成一个HTML页面代码编写（不写CSS，不需要关注样式，只关注文档结构）&quot;&gt;&lt;a href=&quot;#参考如下示例图，完成一个HTML页面代码编写（不写CSS，不需要关注样式，只关注文档结构）&quot; class=&quot;headerlink&quot; title=&quot;参考如下示例图，完成一个HTML页面代码编写（不写CSS，不需要关注样式，只关注文档结构）&quot;&gt;&lt;/a&gt;参考如下示例图，完成一个HTML页面代码编写（不写CSS，不需要关注样式，只关注文档结构）&lt;/h3&gt;&lt;h2 id=&quot;Demo-task-1-1-1&quot;&gt;&lt;a href=&quot;#Demo-task-1-1-1&quot; class=&quot;headerlink&quot; title=&quot;Demo:task_1_1_1&quot;&gt;&lt;/a&gt;Demo:&lt;a href=&quot;https://wsqat.github.io/ife/task_1_1_1.html&quot;&gt;task_1_1_1&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://7xrp04.com1.z0.glb.clouddn.com/task_1_1_1.jpg&quot; alt=&quot;cmd-markdown-demo&quot;&gt;&lt;/p&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;摘要：&lt;br&gt;    IFE 百度前端技术学院&lt;br&gt;    IFE春季班第一阶段任务&lt;br&gt;    任务一：零基础HTML编码&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="IFE" scheme="http://wsqat.github.io/categories/IFE/"/>
+    
+    
+      <category term="IFE" scheme="http://wsqat.github.io/tags/IFE/"/>
+    
+      <category term="前端" scheme="http://wsqat.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello</title>
